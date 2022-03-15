@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ##Languages and Tools
 
 <p align="left">
-<img src=" https://user-images.githubusercontent.com/96076158/158332710-ff50701d-d2bf-4442-8897-a0b7928767c2.png 
+<img src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fhtml-5_919827&psig=AOvVaw3CZuYEWBTij2T_ZGj9ajaN&ust=1647417774255000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjN2dbTx_YCFQAAAAAdAAAAABAD
 "alt=" html"/>
 
 <img  src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css"/>
