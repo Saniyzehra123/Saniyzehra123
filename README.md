@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 <img  src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css"/>
 
 <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="javascript"/>
+ "<img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="react"/>
 </p>
