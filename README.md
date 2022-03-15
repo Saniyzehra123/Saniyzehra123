@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 </b>
 
 ##Languages and Tools
-<img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png
-" alt="html"/>
+<img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"alt=" html"/>
 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcss_919826&psig=AOvVaw0IID4dyYUeM1-5O_b3tLwQ&ust=1647416414183000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDmktjOx_YCFQAAAAAdAAAAABAD" alt="css"/>
 
