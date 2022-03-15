@@ -21,3 +21,5 @@
 
 <img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniyzehra123&layout=compact" />
  
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Saniyzehra123&date_format=M%20j%5B%2C%20Y%5D" />
+ 
