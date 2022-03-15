@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+<b>A passionate full-stack developer with a specialization in MERN stack. Self-determined,Quicklearner and a teamplayer ,possessing a strong ability to lead. Looking for a role as a developer to implement technical skills and work on innovative projects.
+</b>
+
+##Languages and Tools
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw2_0ojJGKITDw2QMyBJB949&ust=1647416187164000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDU3PXNx_YCFQAAAAAdAAAAABAD" alt="html"/>
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcss_919826&psig=AOvVaw0IID4dyYUeM1-5O_b3tLwQ&ust=1647416414183000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDmktjOx_YCFQAAAAAdAAAAABAD" alt="css"/>
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Fjavascript-tutorial&psig=AOvVaw1bDAJTC637ZyJrX4063pLv&ust=1647416537442000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjNnILPx_YCFQAAAAAdAAAAABAD" alt="javascript"/>
+
