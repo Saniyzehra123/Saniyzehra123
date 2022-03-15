@@ -28,5 +28,6 @@ Here are some ideas to get you started:
 <img  src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css"/>
 
 <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="javascript"/>
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw30JF1yybGM5zWDdfyS-LGF&ust=1647417990971000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjGh7TUx_YCFQAAAAAdAAAAABAD " alt="react"/>
+ <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png
+ " alt="react"/>
 </p>
