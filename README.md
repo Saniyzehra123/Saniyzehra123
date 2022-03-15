@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"alt=" html"/>
 
-<img width="100px" height="100px"src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css"/>
+<img  src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css"/>
 
 <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="javascript"/>
 </p>
