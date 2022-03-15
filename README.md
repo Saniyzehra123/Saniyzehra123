@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 </b>
 
 ##Languages and Tools
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw2_0ojJGKITDw2QMyBJB949&ust=1647416187164000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDU3PXNx_YCFQAAAAAdAAAAABAD" alt="html"/>
+<img src="![image](https://user-images.githubusercontent.com/96076158/158330269-dc454e72-c6f6-4769-93f9-613d556676fe.png)
+" alt="html"/>
 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcss_919826&psig=AOvVaw0IID4dyYUeM1-5O_b3tLwQ&ust=1647416414183000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDmktjOx_YCFQAAAAAdAAAAABAD" alt="css"/>
 
