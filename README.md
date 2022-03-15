@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 ##Languages and Tools
 
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"alt=" html"/>
+<img src=" (https://user-images.githubusercontent.com/96076158/158332710-ff50701d-d2bf-4442-8897-a0b7928767c2.png)
+"alt=" html"/>
 
 <img  src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css"/>
 
