@@ -10,6 +10,13 @@
 - 📫 Contact me **zsaniya973@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/saniya-zehra-a5760122a/" alt="linkedin"  >  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+   <a href=" https://github.com/Saniyzehra123" alt="gitHub"  >  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="linkedin" /></a>
+</p>
+
+
 <p align="left">
 </p>
 
