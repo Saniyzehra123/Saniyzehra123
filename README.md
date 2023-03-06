@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently **learning Full Stack Web Devlopment**
 
-- 👯 I’m looking to collaborate on **on some cool project**
+- 👯 I’m looking to collaborate on ** some cool project**
 
 - 📫 Contact me **zsaniya973@gmail.com**
 
